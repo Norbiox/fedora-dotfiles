@@ -16,6 +16,7 @@ sudo dnf install \
 	hstr \
 	ipython \
 	kitty \
+	neofetch \
 	nmap \
 	ranger \
 	ripgrep \
