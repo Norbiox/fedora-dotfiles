@@ -7,3 +7,5 @@ echo "Running full system update..."
 echo "Fetching dotfiles repository..."
 ./10_fetch_dotfiles.sh
 
+echo "Installing software..."
+./20_install_software.sh
