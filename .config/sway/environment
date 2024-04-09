@@ -1,0 +1,11 @@
+# vim: set ft=sh:
+
+# Terminal
+TERM=kitty
+
+# Editor
+VISUAL=vim
+EDITOR=vim
+
+# Application compatibility
+_JAVA_AWT_WM_NONREPARENTING=1
