@@ -11,3 +11,6 @@ echo "Fetching dotfiles repository..."
 
 echo "Installing software..."
 ./20_install_software.sh
+
+echo "Installing themes, fonts etc..."
+./30_look_and_feel.sh
