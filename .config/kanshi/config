@@ -1,0 +1,10 @@
+profile {
+  output eDP-1 enable position 5760,1200
+  output 'Dell Inc. DELL U2415 7MT0177R1E2L' mode 1920x1200 position 3840,0
+  output 'Dell Inc. DELL U2415 7MT0187628UL' mode 1920x1200 position 7680,0
+  output 'Dell Inc. DELL U2415 7MT016613C3L' mode 1920x1200 position 5760,0
+}
+
+profile {
+  output eDP1 enable position 0,0
+}
