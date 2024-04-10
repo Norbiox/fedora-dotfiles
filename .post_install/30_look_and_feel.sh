@@ -6,3 +6,6 @@ sudo dnf install arc-theme
 
 # Setup theme
 gsettings set org.gnome.desktop.interface gtk-theme Arc-Dark-solid
+
+# Install fonts
+sudo dnf install fontawesome-fonts
