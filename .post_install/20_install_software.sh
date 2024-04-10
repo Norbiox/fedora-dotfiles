@@ -21,6 +21,7 @@ sudo dnf install \
 	ranger \
 	ripgrep \
 	sd \
+	v4l2ucp \
 	vim \
 	wdisplays \
 	neovim \
