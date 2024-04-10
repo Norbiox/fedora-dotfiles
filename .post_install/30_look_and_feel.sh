@@ -12,3 +12,4 @@ sudo dnf install fontawesome-fonts
 wget https://rubjo.github.io/victor-mono/VictorMonoAll.zip
 unzip VictorMonoAll.zip -d ~/.local/share/fonts/
 fc-cache -f
+rm VictorMonoAll.zip
