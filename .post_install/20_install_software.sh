@@ -22,6 +22,7 @@ sudo dnf install \
 	ripgrep \
 	sd \
 	vim \
+	wdisplays \
 	neovim \
 	zathura \
 	zathura-pdf-mupdf \
